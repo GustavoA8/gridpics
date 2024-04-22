@@ -34,7 +34,7 @@ git clone https://github.com/seu_usuario/gridpics.git
 
 ## Autor
 
-Este projeto foi desenvolvido por [Gustavo Araujo de Souza](https://github.com/seu_usuario).
+Este projeto foi desenvolvido por [Gustavo Araujo de Souza](https://github.com/GustavoA8).
 
 ## Licença
 
